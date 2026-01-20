@@ -33,3 +33,6 @@ Key Design Choices:
 Explicit removal of self-similarity to prevent inflated scores
 Defensive handling of indices and edge cases
 Baseline comparison instead of misleading accuracy metrics
+
+The dataset is added to .gitignore
+and it can be downloaded from https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/data .
