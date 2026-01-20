@@ -27,6 +27,9 @@ Evaluation Method:
 To validate recommendation quality, the system compares:
 Average cosine similarity of model recommendations
 Average cosine similarity of random recommendations (baseline)
+
+dataset link:
+https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db/data
 A higher similarity score for the model confirms meaningful recommendations.
 
 Key Design Choices:
